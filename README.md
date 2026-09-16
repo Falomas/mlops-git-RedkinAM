@@ -1,1 +1,1 @@
-Project status: draft
+Project status: Project status: ready for training
